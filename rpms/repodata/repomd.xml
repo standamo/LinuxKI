@@ -1,36 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <repomd xmlns="http://linux.duke.edu/metadata/repo" xmlns:rpm="http://linux.duke.edu/metadata/rpm">
- <revision>1534167383</revision>
+ <revision>1534168258</revision>
 <data type="filelists">
   <checksum type="sha256">f2e709eb349a7d3ed708d9cc7d1705f43ae01ef2a6922734ddad2626be16d7fa</checksum>
   <open-checksum type="sha256">bf6340721ea60a7ce1544bba0dd1205a1a2156bc64df8f896741dbcc6d9ce055</open-checksum>
-  <location xml:base="/HewlettPackard/LinuxKI/releases/download/v5.4-2/" href="repodata/f2e709eb349a7d3ed708d9cc7d1705f43ae01ef2a6922734ddad2626be16d7fa-filelists.xml.gz"/>
-  <timestamp>1534167383</timestamp>
+  <location xml:base="https://github.com/HewlettPackard/LinuxKI/releases/download/v5.4-2/" href="repodata/f2e709eb349a7d3ed708d9cc7d1705f43ae01ef2a6922734ddad2626be16d7fa-filelists.xml.gz"/>
+  <timestamp>1534168258</timestamp>
   <size>2467</size>
   <open-size>22437</open-size>
 </data>
 <data type="primary">
-  <checksum type="sha256">99f03025523f25aedcbcd3a47c8691c95538018dee317c5bae6a8621cc4f4199</checksum>
-  <open-checksum type="sha256">953d79e3badf0fb7864493a8c0dba84e94e7ac4d9b7fcc7f2d5ba8110b302343</open-checksum>
-  <location xml:base="/HewlettPackard/LinuxKI/releases/download/v5.4-2/" href="repodata/99f03025523f25aedcbcd3a47c8691c95538018dee317c5bae6a8621cc4f4199-primary.xml.gz"/>
-  <timestamp>1534167383</timestamp>
-  <size>987</size>
-  <open-size>2095</open-size>
+  <checksum type="sha256">8faddfda1a398df948b4237dc104c85999c8695fcae6655d8ca0929879fd67ed</checksum>
+  <open-checksum type="sha256">66980a3b2669e675d4c36c45de57f400ff0b2adb0520c90c42a4ad7f22e36df0</open-checksum>
+  <location xml:base="https://github.com/HewlettPackard/LinuxKI/releases/download/v5.4-2/" href="repodata/8faddfda1a398df948b4237dc104c85999c8695fcae6655d8ca0929879fd67ed-primary.xml.gz"/>
+  <timestamp>1534168258</timestamp>
+  <size>998</size>
+  <open-size>2113</open-size>
 </data>
 <data type="primary_db">
-  <checksum type="sha256">8239a0ad0988ac717deac253226729924a2624d42707b807058be0704882cec3</checksum>
-  <open-checksum type="sha256">e49bb0cd75912eba8cd29394c8266b22f475e93e82c3008a1c01fc5102d6fb42</open-checksum>
-  <location xml:base="/HewlettPackard/LinuxKI/releases/download/v5.4-2/" href="repodata/8239a0ad0988ac717deac253226729924a2624d42707b807058be0704882cec3-primary.sqlite.bz2"/>
-  <timestamp>1534167383</timestamp>
+  <checksum type="sha256">b7b8afc40c23e1ee72106691bb1a7d6a8708b0b28b49c5002c4bd530486be13f</checksum>
+  <open-checksum type="sha256">d8e714930e53a120d789794c8853eb932ed41cded65b4305186ed9eb4871fc48</open-checksum>
+  <location xml:base="https://github.com/HewlettPackard/LinuxKI/releases/download/v5.4-2/" href="repodata/b7b8afc40c23e1ee72106691bb1a7d6a8708b0b28b49c5002c4bd530486be13f-primary.sqlite.bz2"/>
+  <timestamp>1534168258</timestamp>
   <database_version>10</database_version>
-  <size>2146</size>
+  <size>2170</size>
   <open-size>21504</open-size>
 </data>
 <data type="other_db">
   <checksum type="sha256">c16d68f9b3644580d8a8b6327ca2ff1c05071f16bf2b9795aa5d8012d533e0f0</checksum>
   <open-checksum type="sha256">f49df3364a1fb3c83fddd11bd98bd4ee5b4f12d036d283e15f269658ae3704f0</open-checksum>
-  <location xml:base="/HewlettPackard/LinuxKI/releases/download/v5.4-2/" href="repodata/c16d68f9b3644580d8a8b6327ca2ff1c05071f16bf2b9795aa5d8012d533e0f0-other.sqlite.bz2"/>
-  <timestamp>1534167383</timestamp>
+  <location xml:base="https://github.com/HewlettPackard/LinuxKI/releases/download/v5.4-2/" href="repodata/c16d68f9b3644580d8a8b6327ca2ff1c05071f16bf2b9795aa5d8012d533e0f0-other.sqlite.bz2"/>
+  <timestamp>1534168258</timestamp>
   <database_version>10</database_version>
   <size>671</size>
   <open-size>6144</open-size>
@@ -38,16 +38,16 @@
 <data type="other">
   <checksum type="sha256">9ff20629a319a81d2025cae351ced8916f7567131175851fa9450b7fc6c7dea9</checksum>
   <open-checksum type="sha256">ffba7553d86834f6f94048a9cf67481e4c90a3c3eecf390f2b284ea6c3ca9144</open-checksum>
-  <location xml:base="/HewlettPackard/LinuxKI/releases/download/v5.4-2/" href="repodata/9ff20629a319a81d2025cae351ced8916f7567131175851fa9450b7fc6c7dea9-other.xml.gz"/>
-  <timestamp>1534167383</timestamp>
+  <location xml:base="https://github.com/HewlettPackard/LinuxKI/releases/download/v5.4-2/" href="repodata/9ff20629a319a81d2025cae351ced8916f7567131175851fa9450b7fc6c7dea9-other.xml.gz"/>
+  <timestamp>1534168258</timestamp>
   <size>226</size>
   <open-size>285</open-size>
 </data>
 <data type="filelists_db">
   <checksum type="sha256">834e09b2f2775f932cf65bb48663d16a87a149a0426690dbaebe6743143b4ef0</checksum>
   <open-checksum type="sha256">90f85ab8d65e69c9f8c4ce7908489e9d6393f74554554cb4327ecbd0e4ec2ae6</open-checksum>
-  <location xml:base="/HewlettPackard/LinuxKI/releases/download/v5.4-2/" href="repodata/834e09b2f2775f932cf65bb48663d16a87a149a0426690dbaebe6743143b4ef0-filelists.sqlite.bz2"/>
-  <timestamp>1534167383</timestamp>
+  <location xml:base="https://github.com/HewlettPackard/LinuxKI/releases/download/v5.4-2/" href="repodata/834e09b2f2775f932cf65bb48663d16a87a149a0426690dbaebe6743143b4ef0-filelists.sqlite.bz2"/>
+  <timestamp>1534168258</timestamp>
   <database_version>10</database_version>
   <size>3899</size>
   <open-size>18432</open-size>
